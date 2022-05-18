@@ -1,0 +1,15 @@
+CAN_PROVINCE_AND_TERRITORY_CAPITALS = {
+    "Alberta": "Edmonton",
+    "British Columbia": "Victoria",
+    "Manitoba": "Winnipeg",
+    "New Brunswick": "Fredericton",
+    "Newfoundland and Labrador": "St. John's",
+    "Nova Scotia": "Halifax",
+    "Ontario": "Toronto",
+    "Prince Edward Island": "Charlottetown",
+    "Quebec": "Quebec City",
+    "Saskatchewan": "Regina",
+    "Northwest Territories": "Yellowknife",
+    "Yukon": "Whitehorse",
+    "Nunavut": "Iqaluit",
+}
