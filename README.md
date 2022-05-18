@@ -5,7 +5,7 @@ Test your capital knowledge might!
 # Usage
 
 ```
-
+python early_morning_triples/triples.py
 ```
 
 # Contributing
